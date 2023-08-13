@@ -31,7 +31,7 @@ href="https://github.com/CreepyOrb924/creepy-salhack/releases/download/v2.08.1/c
 <a
 href="https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar" dowload>Experium 1.8.7</a><br>
 <a
-href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar" dowload>Trillium
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar" dowload>Trillium</a><br>
 <a
 href="https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar" dowload>Thunderhack+ recode 1.2 (1.20.1)</a><br>
 
