@@ -2,10 +2,11 @@
 
 **Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version** <br>
 
-_Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **facism**, **madcat 3.0**, **lemon**... <br>
-<a href="https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar" download>Seppuku-3.2.1</a><br>
+_Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **sushi**, **madcat 3.0**, **lemon**... <br>
+<a 
+href="https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar" download>Seppuku-3.2.1</a><br>
 <a
-href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Facism.client.-.beta.jar" download>Facism old beta</a><br>
+href="https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar" dowload>Sushi 1.0</a><br>
 <a
 href="https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar" dowload>Madcat 3.0</a><br>
 <a
@@ -35,7 +36,7 @@ href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trilliu
 <a
 href="https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar" dowload>Thunderhack+ recode 1.2 (1.20.1)</a><br>
 
-_Some of the clients in this archive are just here to explore new aspects of the game or have one good module._ The names of these clients are **abstract**, **stay**, **forever** (can be good), **sushi**, **lover**, **wurst+4**... <br>
+_Some of the clients in this archive are just here to explore new aspects of the game or have one good module._ The names of these clients are **abstract**, **stay**, **forever** (can be good), **wurst+4**, **lover**, **wurst+4**... <br>
 <a
 href="https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar" dowload>Abstract 1.3.2</a><br>
 <a
@@ -43,11 +44,11 @@ href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.La
 <a
 href="https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/ForeverClient-Leak-1.2.1.jar" dowload>ForeverClient 1.2.1</a><br>
 <a
-href="https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar" dowload>Sushi 1.0</a><br>
-<a
 href="https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar" dowload>Lover 0.8.8</a><br>
 <a
 href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar" dowload>Wurst+4</a><br>
+<a
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar" dowload>303 hack 0.0.4</a><br>
 
 _Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **earthack** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
 
