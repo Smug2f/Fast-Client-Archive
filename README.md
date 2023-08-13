@@ -3,7 +3,7 @@
 **Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version** <br>
 
 _Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **sushi**, **madcat 3.0**, **lemon**... <br>
-##Clients With Special Features
+## Clients With Special Features
 
 - **Seppuku**: [Download Seppuku-3.2.1](https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar)
 - **Sushi**: [Download Sushi 1.0](https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar)
@@ -36,7 +36,7 @@ _Some of the clients in this archive are just here to explore new aspects of the
 - **ThreeZeroThree Hack**: [Download 303 hack 0.0.4](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 
 _Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **3arthh4ck** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
-##Addons And Mods
+## Addons And Mods
 
 - **Meteor**: [Meteor Website](https://meteorclient.com)
 - **Anticope**: [Anticope Website](https://anticope.pages.dev)
