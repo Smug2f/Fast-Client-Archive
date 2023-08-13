@@ -61,7 +61,7 @@ href="https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins" dowload>3arthh4
 href="https://crystalpvp.ru/bozeupdate/bozecrack.zip" dowload>boze 1.2 (1.20.1)</a><br>
 Find shulker viewer or even viafabric+ and more on modrint
 <a
-href="https://modrinth.com/mods" dowload>Modrint Website</a><br>
+href="https://modrinth.com/mods" dowload>_Click Here_</a><br>
 
 _Imagine not having a repository for clients._
 Description made by Smug2
