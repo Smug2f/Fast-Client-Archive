@@ -5,7 +5,7 @@
 _Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **facism**, **madcat 3.0**, **lemon**... <br>
 <a href="https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar" download>Seppuku-3.2.1</a><br>
 <a
-href="https://github.com/biglines/Facism-client-leak/blob/main/Facism%20client%20-%20beta.jar" download>Facism old beta</a><br>
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Facism.client.-.beta.jar" download>Facism old beta</a><br>
 <a
 href="https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar" dowload>Madcat 3.0</a><br>
 <a
@@ -27,9 +27,11 @@ href="https://crystalpvp.ru/future/Installer.jar" dowload>Futur Gold 2.13.5</a><
 <a
 href="https://github.com/asphyxia1337/mioclient-me/releases/download/d/mio-new-release.jar" dowload>Mio 0.6.9 (Free)</a><br>
 <a
-href="https://github.com/CreepyOrb924/creepy-salhack/releases/download/v2.08.1/creepy-salhack-2.08.1.jar" dowload>Creepy Salhack 2.08.1</a><br>
+href="https://github.com/CreepyOrb924/creepy-salhack/releases/download/v2.08.1/creepy-salhack-2.08.1.jar" dowload>Creepy Salhack 2.08.1 (outdated)</a><br>
 <a
 href="https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar" dowload>Experium 1.8.7</a><br>
+<a
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar" dowload>Trillium
 <a
 href="https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar" dowload>Thunderhack+ recode 1.2 (1.20.1)</a><br>
 
@@ -37,7 +39,7 @@ _Some of the clients in this archive are just here to explore new aspects of the
 <a
 href="https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar" dowload>Abstract 1.3.2</a><br>
 <a
-href="https://github.com/Smug2f/Stay/blob/main/STAY%20Latest%20.jar" dowload>Stay 1.0 (issues)</a><br>
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.Latest.jar" dowload>Stay 1.0</a><br>
 <a
 href="https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/ForeverClient-Leak-1.2.1.jar" dowload>ForeverClient 1.2.1</a><br>
 <a
@@ -45,7 +47,7 @@ href="https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi
 <a
 href="https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar" dowload>Lover 0.8.8</a><br>
 <a
-href="https://github.com/levkush/wurst-plus-four" dowload>Wurst+4 (not builded yet)</a><br>
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar" dowload>Wurst+4</a><br>
 
 _Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **earthack** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
 
