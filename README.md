@@ -65,4 +65,11 @@ href="https://modrinth.com/mods" dowload>_Click Here_</a><br>
 
 _Imagine not having a repository for clients._
 Description made by Smug2
+Test
+## Clients with Unique Modules
+
+- **Abstract**: [Download Abstract 1.3.2](https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar)
+- **Stay**: [Download Stay 1.0](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.Latest.jar)
+- **ForeverClient**: [Download ForeverClient 1.2.1](https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/ForeverClient-Leak-1.2.1.jar)
+- **Lover**: [Download Lover 0.8.8](https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar)
 
