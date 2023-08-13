@@ -46,11 +46,22 @@ href="https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/For
 <a
 href="https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar" dowload>Lover 0.8.8</a><br>
 <a
-href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar" dowload>Wurst+4</a><br>
+href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar" dowload>Wurst+4 0.0.1</a><br>
 <a
 href="https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar" dowload>303 hack 0.0.4</a><br>
 
-_Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **earthack** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
+_Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **3arthh4ck** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
+<a
+href="https://meteorclient.com" dowload>Meteor Website</a><br>
+<a
+href="https://anticope.pages.dev" dowload>Anticope Website (You can discover blackout and crystals addon, along with others addons, right here!)</a><br>
+<a
+href="https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins" dowload>3arthh4ck-Plugins github
+<a
+href="https://crystalpvp.ru/bozeupdate/bozecrack.zip" dowload>boze 1.2 (1.20.1)</a><br>
+Find shulker viewer or even viafabric+ and more on modrint
+<a
+href="https://modrinth.com/mods" dowload>Modrint Website</a><br>
 
 _Imagine not having a repository for clients._
 Description made by Smug2
