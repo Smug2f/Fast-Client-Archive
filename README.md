@@ -56,7 +56,7 @@ href="https://meteorclient.com" dowload>Meteor Website</a><br>
 <a
 href="https://anticope.pages.dev" dowload>Anticope Website (You can discover blackout and crystals addon, along with others addons, right here!)</a><br>
 <a
-href="https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins" dowload>3arthh4ck-Plugins github
+href="https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins" dowload>3arthh4ck-Plugins github</a><br>
 <a
 href="https://crystalpvp.ru/bozeupdate/bozecrack.zip" dowload>boze 1.2 (1.20.1)</a><br>
 Find shulker viewer or even viafabric+ and more on modrint
