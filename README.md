@@ -12,15 +12,13 @@ _Some clients in this archive are worth checking out, even if they may look bad 
 - **MachineLite**: [Download MachineLite 1.6.0](https://github.com/RabiesDev/machine-lite/releases/download/v1.6.0/MachineLite.jar)
 - **Shimeji**: [Download Shimeji 2.2](https://github.com/enokitoraisu/ShimejiClient-Public/releases/download/latest-2.2/shimeji-2.2.jar)
 
-_On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **mio**, **creepysalhack**, **experium**... <br>
+_On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **experium**... <br>
 ## Strong Clients
 
 - **Trollhack**: [Download Trollhack 1.3.0 dev](https://cdn.discordapp.com/attachments/1084352566592294912/1137277930632917052/TrollHack-1.3.0-nightly-322aa8c.jar)
 - **3arthh4ck**: [Download 3arthh4ck 1.8.8](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/releases/download/1.8.8/3arthh4ck-1.8.8-release.jar)
 - **Rusher crack**: [Download Rushercrack 1.2.3+](https://crystalpvp.ru/rusherhack/rushercrack.jar)
 - **Futur Crack**: [Download Futur Gold 2.13.5](https://crystalpvp.ru/future/Installer.jar)
-- **Mio**: [Download Mio 0.6.9 (Free)](https://github.com/asphyxia1337/mioclient-me/releases/download/d/mio-new-release.jar)
-- **Creepy Salhack**: [Dowload Creepy Salhack 2.08.1 (outdated)](https://github.com/CreepyOrb924/creepy-salhack/releases/download/v2.08.1/creepy-salhack-2.08.1.jar)
 - **Experium**: [Dowload Experium 1.8.7](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
 - **Trillium**: [Dowload Trillium b1.8.5](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar)
 - **Thunderhack+ recode**: [Dowload Thunderhack+ recode 1.2 (1.20.1)](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar)
