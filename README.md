@@ -1,16 +1,16 @@
 # About Fast Client Archive
 
-**Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version** <br>
+**Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version it's then followed by its dowload link and their bind** <br>
 
 _Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **sushi**, **madcat 3.0**, **lemon**... <br>
 ## Clients With Special Features
 
-- **Seppuku**: [Download Seppuku-3.2.1](https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar)
-- **Sushi**: [Download Sushi 1.0](https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar)
-- **Madcat 3.0**: [Download Madcat 3.0](https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar)
-- **Lemon**: [Download Lemon 0.0.2](https://github.com/MikuSoCute/Lemon-public/releases/download/Release/lemonclient_v0.0.2.jar)
-- **MachineLite**: [Download MachineLite 1.6.0](https://github.com/RabiesDev/machine-lite/releases/download/v1.6.0/MachineLite.jar)
-- **Shimeji**: [Download Shimeji 2.2](https://github.com/enokitoraisu/ShimejiClient-Public/releases/download/latest-2.2/shimeji-2.2.jar)
+- **Seppuku**: [Download Seppuku-3.2.1(Y)](https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar)
+- **Sushi**: [Download Sushi 1.0(RSHIFT)](https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar)
+- **Madcat 3.0**: [Download Madcat 3.0(O)](https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar)
+- **Lemon**: [Download Lemon 0.0.2(O)](https://github.com/MikuSoCute/Lemon-public/releases/download/Release/lemonclient_v0.0.2.jar)
+- **MachineLite**: [Download MachineLite 1.6.0(Prefix is .)](https://github.com/RabiesDev/machine-lite/releases/download/v1.6.0/MachineLite.jar)
+- **Shimeji**: [Download Shimeji 2.2(O)](https://github.com/enokitoraisu/ShimejiClient-Public/releases/download/latest-2.2/shimeji-2.2.jar)
 
 _On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **experium**... <br>
 ## Strong Clients
