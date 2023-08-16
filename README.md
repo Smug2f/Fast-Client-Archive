@@ -15,7 +15,7 @@ _Some clients in this archive are worth checking out, even if they may look bad 
 _On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **experium**... <br>
 ## Strong Clients
 
-- **Trollhack**: [Download Trollhack 1.3.0 dev(y)](https://cdn.discordapp.com/attachments/1084352566592294912/1137277930632917052/TrollHack-1.3.0-nightly-322aa8c.jar)
+- **Trollhack**: [Download Trollhack 1.3.0 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1137277930632917052/TrollHack-1.3.0-nightly-322aa8c.jar)
 - **3arthh4ck**: [Download 3arthh4ck 1.8.8(RSHIFT)](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/releases/download/1.8.8/3arthh4ck-1.8.8-release.jar)
 - **Rusher crack**: [Download Rushercrack 1.2.3+(Y)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
 - **Futur Crack**: [Download Futur Gold 2.13.5](https://crystalpvp.ru/future/Installer.jar)
