@@ -16,7 +16,7 @@ _On the other hand, **strong clients** can handle all the job by themselves with
 ## Strong Clients
 
 - **Trollhack**: [Download Trollhack 1.3.0 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1137277930632917052/TrollHack-1.3.0-nightly-322aa8c.jar)
-- **3arthh4ck**: [Download 3arthh4ck 1.8.8(Prefix is +)](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/releases/download/1.8.8/3arthh4ck-1.8.8-release.jar)
+- **3arthh4ck**: [Download 3arthh4ck 1.9.0(Prefix is +)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/3arthh4ck-1.9.0-release.jar)
 - **Rusher crack**: [Download Rushercrack 1.2.3+(P)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
 - **Futur Crack**: [Download Futur Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
