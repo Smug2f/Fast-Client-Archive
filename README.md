@@ -18,7 +18,7 @@ _On the other hand, **strong clients** can handle all the job by themselves with
 - **Trollhack**: [Download Trollhack 1.3.0 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1137277930632917052/TrollHack-1.3.0-nightly-322aa8c.jar)
 - **3arthh4ck**: [Download 3arthh4ck 1.9.0(Prefix is +)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/3arthh4ck-1.9.0-release.jar)
 - **Rusher crack**: [Download Rushercrack 1.2.3+(P)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
-- **Futur Crack**: [Download Futur Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
+- **Future Crack**: [Download Futur Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
 - **Trillium**: [Dowload Trillium b1.8.5(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar)
 - **Thunderhack+**: [Dowload Thunderhack+ 1.2 (1.20.1)(P)](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar)
