@@ -43,4 +43,7 @@ _Addons greatly improve client combat and utility modules as they allow for amaz
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
 _Best looking repository for clients._
-Description made by Smug2
+Description made by Smug2<br>
+## Songs used for showcasing client:
+- : [Harvest Dawn](https://youtu.be/8oF20GLU2v0)
+
