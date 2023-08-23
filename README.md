@@ -46,5 +46,5 @@ _Best looking repository for clients._
 Description made by Smug2<br>
 ## Experimental stuff down here
 _**Songs used for showcasing client:**_<br>
-- [Harvest Dawn](https://youtu.be/8oF20GLU2v0)
+- [Harvest Dawn](https://youtu.be/8oF20GLU2v0)<br>
 _**Website of the archive**_
