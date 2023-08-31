@@ -31,7 +31,7 @@ _Some of the clients in this archive are just here to explore new aspects of the
 - **ForeverClient**: [Download ForeverClient 1.2.1(RSHIFT)](https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/ForeverClient-Leak-1.2.1.jar)
 - **Lover**: [Download Lover 0.8.8(Prefix is .)](https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar)
 - **Wurst+4**: [Download Wurst+4 0.0.1(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar)
-- **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nividia graphic cards ](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
+- **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nividia graphic card)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 
 _Addons greatly improve client combat and utility modules as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **3arthh4ck** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
 ## Addons And Mods
