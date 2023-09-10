@@ -11,7 +11,7 @@ _Some clients in this archive are worth checking out, even if they may look bad 
 - **Lemon**: [Download Lemon 0.0.6(O)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/lemon-v0.0.6-release.jar)
 - **MachineLite**: [Download MachineLite 1.6.0(Prefix is .)](https://github.com/RabiesDev/machine-lite/releases/download/v1.6.0/MachineLite.jar)
 - **Shimeji**: [Download Shimeji 2.2(O)](https://github.com/enokitoraisu/ShimejiClient-Public/releases/download/latest-2.2/shimeji-2.2.jar)
-- **AbHack**: [Download abhack 0.0.1(O)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
+- **AbHack**: [Download abhack 0.0.1(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
 
 _On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **alice**... <br>
 ## Strong Clients
