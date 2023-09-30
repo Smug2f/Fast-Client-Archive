@@ -40,7 +40,7 @@ _Addons greatly improve client combat and utility modules as they allow for amaz
 
 - **Meteor**: [Meteor Website](https://meteorclient.com)
 - **Anticope**: [Anticope Website](https://anticope.pages.dev)
-- **3arthh4ck Plugins**: [3arthh4ck-Plugins github](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins)
+- **3arthh4ck Plugins**: [Continued Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) / [Official Plugins](https://github.com/3arthqu4ke/3arthh4ck/tree/plugins)
 - **Boze Crack**: [Download Boze 1.2 (1.20.1)(RSHIFT)](https://crystalpvp.ru/bozeupdate/bozecrack.zip)
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
