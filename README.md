@@ -22,7 +22,7 @@ _On the other hand, **strong clients** can handle all the job by themselves with
 - **Future Crack**: [Download Future Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
 - **Trillium**: [Dowload Trillium b1.8.5(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar)
 - **Alice**: [Dowload Alice 1.6.3(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Alice.public.1.6.3.jar)
-- **Thunderhack+**: [Dowload Thunderhack+ 1.2 (1.20.1)(P)](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.2b70823/thunderhack-1.2.jar)
+- **Thunderhack+**: [Dowload Thunderhack+ 1.3 (1.20.2)(P)](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/latest/thunderhack-1.3.jar)
 
 _Some of the clients in this archive are just here to explore new aspects of the game or have one good module._ The names of these clients are **abstract**, **stay**, **forever** (can be good), **lover**, **wurst+4**... <br>
 ## Clients Exploring New Aspect 
