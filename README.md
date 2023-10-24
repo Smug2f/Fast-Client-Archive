@@ -50,6 +50,3 @@ Description made by Smug2<br>
 _**Songs used for showcasing client:**_<br>
 - [Harvest Dawn](https://youtu.be/8oF20GLU2v0)<br>
 - [The Lost Soul Down (Not the X Lost Soul)](https://www.youtube.com/watch?v=vtlOcMEqMy4)<br>
-
-_**Website of the archive**_ (Really experimental don't judge)
-<a href="https://fast-client-archive.neocities.org">Project *N*
