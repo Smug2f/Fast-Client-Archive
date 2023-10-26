@@ -30,7 +30,7 @@ _Some of the clients in this archive are just here to explore new aspects of the
 - **Abstract**: [Download Abstract 1.3.2(RSHIFT)](https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar)
 - **Stay**: [Download Stay 1.0(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.Latest.jar)
 - **ForeverClient**: [Download ForeverClient 1.2.1(RSHIFT)](https://github.com/h1tm4nqq/ForeverClient-leak/releases/download/1.2.1/ForeverClient-Leak-1.2.1.jar)
-- **Lover**: [Download Lover 0.8.8(Prefix is .)](https://github.com/DoNhutTann/Lover-public/releases/download/v0.8.0/lov3r.jar)
+- **Lover**: [Download Lover 0.9(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Lover-0.9-release.jar)
 - **Wurst+4**: [Download Wurst+4 0.0.1(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar)
 - **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nividia graphic card)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
