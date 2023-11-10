@@ -51,3 +51,6 @@ Description made by Smug2<br>
 _**Songs used for showcasing client:**_<br>
 - [Harvest Dawn](https://youtu.be/8oF20GLU2v0)<br>
 - [The Lost Soul Down (Not the X Lost Soul)](https://www.youtube.com/watch?v=vtlOcMEqMy4)<br>
+_**Chill**_
+- [Weightless(1))](https://youtu.be/j3X7vhvqi_E?si=zSfNl818PaD5hw1r)<br>
+
