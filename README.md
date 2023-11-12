@@ -1,6 +1,6 @@
 # About Fast Client Archive
 
-**Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version it's then followed by its dowload link and their bind** <br>
+**Lot of clients in this repo are leaked or cracked (all are free), so don't mind it , all client run on 1.12.2 exept if its written another version it's then followed by their dowload link and their bind** <br>
 
 _Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **sushi**, **madcat 3.0**, **lemon**... <br>
 ## Clients With Special Features
