@@ -16,13 +16,13 @@ _Some clients in this archive are worth checking out, even if they may look bad 
 _On the other hand, **strong clients** can handle all the job by themselves without the need for a second client._ Having one of these clients is a must, as it will make you come out on top in fights. The names of these clients are **trollhack**, **3arthh4ck**, **rusherhack**, **futur**, **alice**... <br>
 ## Strong Clients
 
-- **Trollhack**: [Download Trollhack 1.3.1 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1150987740104638524/TrollHack-1.3.1-nightly-8a70a0a.jar)
+- **Trollhack**: [Download Trollhack 1.3.1 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1172241225324171375/TrollHack-1.3.1-nightly-ee9b436.jar?ex=655f99b7&is=654d24b7&hm=5a4d10d5f6652076174cdbdd1020e03fbad444263ae127d9735fdcd1d4146f5c&)
 - **3arthh4ck**: [Download 3arthh4ck 1.9.0(Prefix is +)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/3arthh4ck-1.9.0-release.jar)
 - **Rusher crack**: [Download Rushercrack 1.2.3+(P)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
 - **Future Crack**: [Download Future Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
 - **Trillium**: [Dowload Trillium b1.8.5(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar)
 - **Alice**: [Dowload Alice 1.6.3(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Alice.public.1.6.3.jar)
-- **Thunderhack+**: [Dowload Thunderhack+ 1.3 (1.20.2)(P)](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/latest/thunderhack-1.3.jar)
+- **Thunderhack+**: [Dowload Thunderhack+ 1.3 (1.20.2)(P)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/builded.thunderhack-1.3.jar)
 
 _Some of the clients in this archive are just here to explore new aspects of the game or have one good module._ The names of these clients are **abstract**, **stay**, **forever** (can be good), **lover**, **wurst+4**... <br>
 ## Clients Exploring New Aspect 
