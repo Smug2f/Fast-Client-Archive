@@ -9,7 +9,6 @@ _Some clients in this archive are worth checking out, even if they may look bad 
 - **Sushi**: [Download Sushi 1.0(RSHIFT)](https://github.com/Toshimichi0915/sushi-client/releases/download/1.0/sushi.jar)
 - **Madcat 3.0**: [Download Madcat 3.0(Y)](https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar) / [Rebirth alpha(Prefix is ;)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/rebirth-alpha.jar)
 - **Lemon**: [Download Lemon 0.0.6(O)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/lemon-v0.0.6-release.jar)
-- **MachineLite**: [Download MachineLite 1.6.0(Prefix is .)](https://github.com/RabiesDev/machine-lite/releases/download/v1.6.0/MachineLite.jar)
 - **Shimeji**: [Download Shimeji 2.2(O)](https://github.com/enokitoraisu/ShimejiClient-Public/releases/download/latest-2.2/shimeji-2.2.jar)
 - **AbHack**: [Download abhack 0.0.1(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
 
