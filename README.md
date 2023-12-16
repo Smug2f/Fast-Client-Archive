@@ -1,6 +1,6 @@
 # About Fast Client Archive
 
-**Lot of clients in this repo are leaked or cracked (Not safe to use crack  but all are free), so don't mind it , all client run on 1.12.2 exept if its written another version it's then followed by their dowload link and their bind** <br>
+**Lot of clients in this repo are leaked or cracked (crack got an ! sign not truly safe to use those  but all are free), so don't mind it , all client run on 1.12.2 exept if its written another version it's then followed by their dowload link and their bind** <br>
 
 _Some clients in this archive are worth checking out, even if they may look bad at the beginning. They can become really good when paired with another client, as they bring some **special features** that strong clients lack._ The names of these clients are **seppuku**, **sushi**, **madcat 3.0**, **lemon**... <br>
 ## Clients With Special Features
@@ -18,8 +18,8 @@ _On the other hand, **strong clients** can handle all the job by themselves with
 
 - **Trollhack**: [Download Trollhack 1.3.1 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1172241225324171375/TrollHack-1.3.1-nightly-ee9b436.jar?ex=655f99b7&is=654d24b7&hm=5a4d10d5f6652076174cdbdd1020e03fbad444263ae127d9735fdcd1d4146f5c&)
 - **3arthh4ck**: [Download 3arthh4ck 1.9.0(Prefix is +)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/3arthh4ck-1.9.0-release.jar)
-- **Rusher crack**: [Download Rushercrack 1.2.3+(P)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
-- **Future Crack**: [Download Future Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
+- **Rusher crack**: [!Download Rushercrack 1.2.3+(P)](https://crystalpvp.ru/rusherhack/rushercrack.jar)
+- **Future Crack**: [!Download Future Gold 2.13.5(RSHIFT)](https://crystalpvp.ru/future/Installer.jar)
 - **Trillium**: [Dowload Trillium b1.8.5(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Trillium-b1.8.5-release.jar)
 - **Alice**: [Dowload Alice 1.6.3(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Alice.public.1.6.3.jar)
 - **Thunderhack+**: [Dowload Thunderhack+ 1.3 (1.20.2)(P)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/builded.thunderhack-1.3.jar)
@@ -52,7 +52,7 @@ _Addons greatly improve client combat and utility modules  as they allow for ama
 - **Meteor**: [Meteor Website](https://meteorclient.com)
 - **Anticope**: [Anticope Website](https://anticope.pages.dev)
 - **3arthh4ck Plugins**: [Continued Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) / [Official Plugins](https://github.com/3arthqu4ke/3arthh4ck/tree/plugins)
-- **Boze Crack**: [Download Boze 1.2 (1.20.1)(RSHIFT)](https://crystalpvp.ru/bozeupdate/bozecrack.zip)
+- **Boze Crack**: [!Download Boze 1.2 (1.20.1)(RSHIFT)](https://crystalpvp.ru/bozeupdate/bozecrack.zip)
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
 # Credits
