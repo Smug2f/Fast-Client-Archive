@@ -49,7 +49,7 @@ _These client down there are made for jp server like crystalpvp.jp and other_ , 
 _Addons greatly improve client combat and utility modules  as they allow for amazing customisation in a strong client itself._ The names of these clients supporting addons are **meteor** (blackout for cpvp, crystals addon for utility), **3arthh4ck** (futur/phobos gui for gui tweaks, entity desync for an exploit module), **boze (beta)** (it's already a really good client but still support it), **mods** can also help by **allowing versatility on every client**, some of the mod names are **viafabric+** (allow to travel from 1.8 through 1.20+), **sodium & iris** (shader kick in), **shulker viewer** (nice cheat bud), and more ...<br>
 ## Addons And Mods
 
-- **Meteor**: [Meteor Website](https://meteorclient.com)
+- **Meteor**: [Meteor Website](https://meteorclient.com) /[older meteor](https://github.com/ManInMyVan/meteor-archive)
 - **Anticope**: [Anticope Website](https://anticope.pages.dev)
 - **3arthh4ck Plugins**: [Continued Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) / [Official Plugins](https://github.com/3arthqu4ke/3arthh4ck/tree/plugins)
 - **! Boze Crack**: [Download Boze 1.2 (1.20.1)(RSHIFT)](https://crystalpvp.ru/bozeupdate/bozecrack.zip)
@@ -59,6 +59,7 @@ _Addons greatly improve client combat and utility modules  as they allow for ama
 -Atanii (Compile Marley) 
 -Nekodayo 8442(Official Japanese)
 -Island 3679 (Discord)
+-And the contributors
 **They all provided rare clients**  
 
 _Best looking repository for clients._
