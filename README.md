@@ -48,14 +48,6 @@ _These clients are made for japanese metas, and most possess a piston push/pisto
 - **ForniteHook**: [Download ForniteHook 1.2(Prefix is ?)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/FortniteHook-Cracked.jar) **[POSSIBLE RAT]**
 - **SharkSushi**: [Download SharkSuhi 0.47(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar)
 
-## Paid Clients
-_These are some of the best clients for anarchy or pvp, but most are locked behind a paywall._
-- **Future**: [Future Website(1.12.2 & 1.20.4)](https://www.futureclient.net/)
-- **Boze**: [Boze Website(Newest Minecraft Version)](https://boze.dev/)
-- **Rusherhack**: [Rusherhack Website(1.12.2 & 1.20.4)](https://rusherhack.org/)
-- **Prestige Client**: [Prestige Website(ghost client for 1.20.2)](https://prestigeclient.vip/)
-- **Bloody Client**: Bloody Website is down (bad client anyways)
-
 ## Addons And Mods
 _These addons improve the user's experience when using a client. Also included is a link to Modrinth, where several usefull mods can be found. Use of the AntiCope site is reccomended, as it has many good mods_ 
 - **Blackout**: [Blackout Addon](https://github.com/KassuK1/BlackOut/releases)
