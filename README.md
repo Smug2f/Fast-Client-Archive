@@ -8,7 +8,7 @@
 _These clients possess some special modules, or advanced features that other don't (look at you Seppuku)_
 
 - **Lemon**: [Download Lemon 0.0.6(O)(could be a strong client)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemon-v0.0.6-release.jar) / [Lemon 0.0.4(O)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemonclient_-v0.0.4-release.jar)  / [Lemon 0.0.2(O)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemonclient_v0.0.2.jar)
-- **[!] Bloody Crack**: [Bloody Crack (1.20.1)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Bloody.Client.v1.0.0.jar)
+- **[!] Bloody Crack**: [Dowload Crack (1.20.1)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Bloody.Client.v1.0.0.jar)
 - **Madcat 3.0**: [Download Madcat 3.0(Y)](https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar) / [Rebirth alpha(Prefix is ;)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/rebirth-alpha.jar)
 - **AbHack**: [Download abhack 0.0.1(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
 - **Seppuku**: [Download Seppuku-3.2.1(Y)](https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar)
