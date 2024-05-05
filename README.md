@@ -59,9 +59,9 @@ _These addons improve the user's experience when using a client. Also included i
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
 # Credits
--Atanii (Compile Marley) 
--Nekodayo 8442(Official Japanese)
--Island 3679 (Discord)
+-Atanii (Compile Marley)<br> 
+-Nekodayo 8442(Official Japanese)<br>
+-Island 3679 (Discord)<br>
 <br>**They all provided rare clients**</br>
 <br>**And thanks to the contributors**</br>
 
@@ -69,6 +69,9 @@ _Best repository for clients._
 
 Description made by Smug2<br>
 ## Experimental stuff down here
+_**Performance Optimisation:**_<br>
+- [Performance Guide (1.20.4)](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
+
 _**Misc Songs:**_<br>
 - [Harvest Dawn](https://youtu.be/8oF20GLU2v0)<br>
 - [The Lost Soul Down (Not the X Lost Soul)](https://www.youtube.com/watch?v=vtlOcMEqMy4)<br>
