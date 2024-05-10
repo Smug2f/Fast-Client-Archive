@@ -45,7 +45,7 @@ _These clients are made for japanese metas, and most possess a piston push/pisto
 - **KuraHack**: [Download KuraHack 2.8(U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Kura-release-2.8.jar)
 - **ArkHack**: [Download ArkHack 3.1(Prefix is .)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/ArkHack-3.1-clean.jar)
 - **SharkSushi**: [Download SharkSuhi 0.47(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar)
-- **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nividia graphic card)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
+- **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nvidia graphic card for better comptability)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 - **SHGR**: [Download SHGR 0.1.3(Prefix is -)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shgr-0.1.3.jar)
 - **Orangette**: [Download Orangette b51(O)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 - **[!] ForniteHook**: [Download ForniteHook 1.2(Prefix is ?)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/FortniteHook-Cracked.jar) 
