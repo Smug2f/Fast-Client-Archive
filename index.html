@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Display</title>
+<style>
+    .image-container {
+        display: none; /* Hide the image by default */
+    }
+</style>
+<script>
+    function showImage(imageId) {
+        var imageContainer = document.getElementById(imageId);
+        if (imageContainer.style.display === "none") {
+            imageContainer.style.display = "block"; // Display the image
+        } else {
+            imageContainer.style.display = "none"; // Hide the image if already displayed
+        }
+    }
+</script>
+</head>
+<body>
+<!-- SharkSushi -->
+<p>
+    <a href="javascript:void(0);" onclick="showImage('sharkSushiImage')">SharkSushi</a>:
+    <a href="https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar">(Download SharkSuhi 0.47)</a>
+</p>
+<div id="sharkSushiImage" class="image-container">
+    <img src="https://github.com/Smug2f/Fast-Client-Archive/blob/main/1.20.4/SharkSushi.png" alt="SharkSushi Image">
+</div>
+
+<!-- Shoreline -->
+<p>
+    <a href="javascript:void(0);" onclick="showImage('shorelineImage')">Shoreline</a>:
+    <a href="https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar">(Download Shoreline 1.0.0)</a>
+</p>
+<div id="shorelineImage" class="image-container">
+    <img src="https://github.com/Smug2f/Fast-Client-Archive/blob/main/1.20.4/Shoreline.png" alt="Shoreline Image">
+</div>
+
+</body>
+</html>
