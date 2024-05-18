@@ -71,6 +71,14 @@ _Best repository for clients._
 Description made by Smug2<br>
 ## Experimental stuff down here
 _**Performance Optimisation:**_<br>
+<!-- Shoreline -->
+<p>
+    <a href="javascript:void(0);" onclick="showImage('shorelineImage')">Shoreline</a>:
+    <a href="https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar">(Download Shoreline 1.0.0)</a>
+</p>
+<div id="shorelineImage" class="image-container">
+    <img src="https://github.com/Smug2f/Fast-Client-Archive/blob/main/1.20.4/Shoreline.png" alt="Shoreline Image">
+</div>
 - [Performance Guide (1.20.4)](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
 
 _**Misc Songs:**_<br>
