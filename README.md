@@ -61,7 +61,7 @@ _These addons improve the user's experience when using a client. Also included i
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
 ## Launchers 
-_Launchers are commonly used in any aspect such as anarchy, modding, vanilla ... they can be used to install an large amount of mods easily allowing to optimise performance or smoothen the game , it can also be used to store various instance each with theirs own mods and config here is an list with the launchers that i prefer over others.
+_Launchers are commonly used in any aspect such as anarchy, modding, vanilla ... they can be used to install an large amount of mods easily allowing to optimise performance or smoothen the game , it can also be used to store various instance each with theirs own mods and config._
 - **Modrinth Launcher**: [Modrinth launcher website (Usefull for storing vanilla/anarchy instances and search mods directly on launcher](https://github.com/KassuK1/BlackOut/releases)
 - **Prism**: [Prism website (allow to execute commands and specified java arguments usefull for boze)](https://prismlauncher.org)
 - **AtLauncher**: [Atlauncher website (an alternative to modrinth allowing to change your skin directly in the launcher , feed the beast comptability](https://atlauncher.com)
