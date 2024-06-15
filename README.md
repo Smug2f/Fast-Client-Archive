@@ -8,7 +8,7 @@
 _These clients possess some special modules, or advanced features that other don't (look at you Seppuku)_
 
 - **Lemon**: [Download Lemon 0.0.6(O)(could be a strong client)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemon-v0.0.6-release.jar) / [Lemon 0.0.4(O)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemonclient_-v0.0.4-release.jar)  / [Lemon 0.0.2(O)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lemonclient_v0.0.2.jar)
-- **[!] Bloody Crack**: [Download Bloody Crack (1.20.1)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Bloody.Client.v1.0.0.jar)
+- **[!] Bloody Crack**: [Download Bloody Crack v1.0.1 (1.20.1) (RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Bloody-v1.0.1.jar)
 - **Madcat 3.0**: [Download Madcat 3.0(Y)](https://github.com/KgDW/MadCat-deobf-decomp-buildable/releases/download/3.0/MadCat-3.0-obf.jar) / [Rebirth alpha(Prefix is ;)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/rebirth-alpha.jar)
 - **AbHack**: [Download abhack 0.0.1(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
 - **Seppuku**: [Download Seppuku-3.2.1(Y)](https://github.com/seppukudevelopment/seppuku/releases/download/3.2.1/seppuku-3.2.1.jar)
@@ -44,6 +44,7 @@ _These clients are made for japanese metas, and most possess a piston push/pisto
 
 - **KuraHack**: [Download KuraHack 2.8(U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Kura-release-2.8.jar)
 - **ArkHack**: [Download ArkHack 3.1(Prefix is .)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/ArkHack-3.1-clean.jar)
+- **Melon**: [Download Melon 1.6 dev (1.20.1) (U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/MelonRewrite.jar)
 - **SharkSushi**: [Download SharkSuhi 0.47(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar)
 - **Shoreline**: [Download Shoreline 1.0.0 (1.20.4)(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar)
 - **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nvidia graphic card for better comptability)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
@@ -59,6 +60,14 @@ _These addons improve the user's experience when using a client. Also included i
 - **Unsorted Meteor Addon**: [Future Compatability Repo](https://github.com/AGENTISNUM1/meteor-future/) / [Gui Particle Repo](https://github.com/ccetl/GuiParticlesMeteorAddon)
 - **Viafabric+ and more on modrinth**: [Modrinth](https://modrinth.com/mods)
 
+## Launchers 
+_Launchers are commonly used in any aspect such as anarchy, modding, vanilla ... they can be used to install an large amount of mods easily allowing to optimise performance or smoothen the game , it can also be used to store various instance each with theirs own mods and config here is an list with the launchers that i prefer over others.
+- **Modrinth Launcher**: [Modrinth launcher website (Usefull for storing vanilla/anarchy instances and search mods directly on launcher](https://github.com/KassuK1/BlackOut/releases)
+- **Prism**: [Prism website (allow to execute commands and specified java arguments usefull for boze)](https://prismlauncher.org)
+- **AtLauncher**: [Atlauncher website (an alternative to modrinth allowing to change your skin directly in the launcher , feed the beast comptability](https://atlauncher.com)
+- **CurseForge**: [Curseforge website (you need to dowload overnd curseforge for it to work](https://www.curseforge.com)
+
+  
 # Credits
 -Atanii (Compile Marley)<br> 
 -Nekodayo 8442(Official Japanese)<br>
@@ -66,7 +75,7 @@ _These addons improve the user's experience when using a client. Also included i
 <br>**They all provided rare clients**</br>
 <br>**And thanks to the contributors**</br>
 
-_Best repository for clients._
+_Best repository for specified clients._
 
 Description made by Smug2<br>
 ## Experimental stuff down here
