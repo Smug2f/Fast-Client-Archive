@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Smug2f%20-%20%23d20e74) 
 
-**Most clients here are leaked or cracked! Be carefull with these clients, as some of them may have malware! Use at your own risk! tryed to mark them with [!] (Rat almost garanteed) and [?] (unsure if it's an rat or not)** <br>
+**Most clients here are leaked or cracked! Be carefull with these clients, as some of them may have malware! Use at your own risk! Tryed to mark them with [!] (Rat almost garanteed) and [?] (unsure if it's an rat or not)** <br>
 
 ## Clients With Special Features
 _These clients possess some special modules, or advanced features that other don't (look at you Seppuku)_
@@ -35,7 +35,7 @@ _The clients here explore a new aspect, most revolving around one or two modules
 - **OctoHack**: [Dowload OctoHack 0.1.7(Prefix is .)](https://github.com/Simple-Github-ORG/OctoHack-SRC/releases/download/idk/octohack-0.1.7-release.jar) (Can also be strong in some cases)
 - **Stay**: [Download Stay 1.0(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.Latest.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
-- **Lover**: [Download Lover 0.9(Prefix is ?)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Lover-0.9-release.jar)
+- **[?]Lover**: [Download Lover 0.9(Prefix is ?)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/Lover-0.9-release.jar)
 - **Abstract**: [Download Abstract 1.3.2(RSHIFT)](https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar)
 - **Wurst+4**: [Download Wurst+4 0.0.1(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar)
 
