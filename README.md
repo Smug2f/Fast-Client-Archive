@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Smug2f%20-%20%23d20e74) 
 
-**Most clients here are leaked or cracked! Be carefull with these clients, as some of them may have malware! Use at your own risk!** <br>
+**Most clients here are leaked or cracked! Be carefull with these clients, as some of them may have malware! Use at your own risk! tryed to mark them with [!] (Rat almost garanteed) and [?] (unsure if it's an rat or not)** <br>
 
 ## Clients With Special Features
 _These clients possess some special modules, or advanced features that other don't (look at you Seppuku)_
@@ -46,8 +46,8 @@ _These clients are made for japanese metas, and most possess a piston push/pisto
 - **ArkHack**: [Download ArkHack 3.1(Prefix is .)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/ArkHack-3.1-clean.jar)
 - **Melon**: [Download Melon 1.6 dev (1.20.1) (U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/MelonRewrite.jar)
 - **SharkSushi**: [Download SharkSuhi 0.47(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar)
-- **Shoreline**: [Download Shoreline 1.0.0 (1.20.4)(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar)
-- **ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nvidia graphic card for better comptability)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
+- **[?]Shoreline**: [Download Shoreline 1.0.0 (1.20.4)(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar)
+- **[?]ThreeZeroThree Hack**: [Download 303 hack 0.0.4(Y)(need a nvidia graphic card for better comptability)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 - **SHGR**: [Download SHGR 0.1.3(Prefix is -)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shgr-0.1.3.jar)
 - **Orangette**: [Download Orangette b51(O)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ThreeZeroThreeHack.jar)
 - **[!] ForniteHook**: [Download ForniteHook 1.2(Prefix is ?)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/FortniteHook-Cracked.jar) 
