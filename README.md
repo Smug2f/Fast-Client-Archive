@@ -35,7 +35,7 @@ _The clients here explore a new aspect, most revolving around one or two modules
 - **OctoHack**: [Dowload OctoHack 0.1.7(Prefix is .)](https://github.com/Simple-Github-ORG/OctoHack-SRC/releases/download/idk/octohack-0.1.7-release.jar) (Can also be strong in some cases)
 - **Stay**: [Download Stay 1.0(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/STAY.Latest.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
-- **[?]Lover**: [Download Lover 0.8(Prefix is ?)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lov3r-1.jar)
+- **[?]Lover**: [Download Lover 0.8(Prefix is .)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/lov3r-1.jar)
 - **Abstract**: [Download Abstract 1.3.2(RSHIFT)](https://github.com/WMSGaming/Abstract-1.12.2/releases/download/Public/abstract-v1.3.2.jar)
 - **Wurst+4**: [Download Wurst+4 0.0.1(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar)
 
