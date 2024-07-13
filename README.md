@@ -42,7 +42,7 @@ _The clients here explore a new aspect, most revolving around one or two modules
 ## Japanese client
 _These clients are made for japanese metas, and most possess a piston push/piston aura. Several of these clients are ratted, so be carefull when running_
 
-- **KuraHack**: [Download KuraHack 2.8(U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Kura-release-2.8.jar)
+- **KuraHack**: [Download KuraHack 2.8(U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/Kura-release-2.8.jar) / [Kura 1.20.4 repo](https://github.com/ApertureStatic/KuraNG-Public-Edition/)
 - **ArkHack**: [Download ArkHack 3.1(Prefix is .)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/ArkHack-3.1-clean.jar)
 - **Melon**: [Download Melon 1.6 dev (1.20.1) (U)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/MelonRewrite.jar)
 - **SharkSushi**: [Download SharkSuhi 0.47(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shark-sushi-0.4.7.jar)
