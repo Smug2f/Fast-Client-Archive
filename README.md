@@ -4,6 +4,8 @@
 
 **Most clients here are leaked or cracked! Be carefull with these clients, as some of them may have malware! Use at your own risk! Tryed to mark them with [!] (Rat almost garanteed) and [?] (unsure if it's an rat or not)** <br>
 
+**All clients work on 1.12.2 exept if specified otherwise then they are followed by the clickgui bind or by the prefix of the client (for example it can be .bind clickgui rshift or ;bind gui rshift ....)* <br>
+
 ## Clients With Special Features
 _These clients possess some special modules, or advanced features that other don't (look at you Seppuku)_
 
